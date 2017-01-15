@@ -1,5 +1,3 @@
-# Created by .ignore support plugin (hsz.mobi)
-### Android template
 # Built application files
 *.apk
 *.ap_
@@ -37,39 +35,6 @@ captures/
 # Intellij
 *.iml
 .idea/workspace.xml
-.idea/tasks.xml
-.idea/libraries
 
 # Keystore files
 *.jks
-
-# External native build folder generated in Android Studio 2.2 and later
-.externalNativeBuild
-
-.gitignore
-app/build/generated/assets/
-app/build/generated/res/
-app/build/generated/source/aidl/
-app/build/generated/source/apt/
-app/build/generated/source/r/androidTest/
-app/build/generated/source/rs/
-app/build/intermediates/assets/
-app/build/intermediates/blame/res/androidTest/
-app/build/intermediates/dependency-cache/
-app/build/intermediates/incremental/mergeDebugAndroidTestResources/aapt-temp/
-app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/
-app/build/intermediates/incremental/mergeDebugResources/aapt-temp/
-app/build/intermediates/incremental/packageDebugAndroidTest/
-app/build/intermediates/incremental/packageRelease/
-app/build/intermediates/incremental/processDebugAndroidTestResources/
-app/build/intermediates/incremental/processDebugResources/
-app/build/intermediates/jniLibs/
-app/build/intermediates/manifest/tmp/
-app/build/intermediates/manifests/instant-run/
-app/build/intermediates/res/merged/androidTest/
-app/build/intermediates/rs/
-app/build/intermediates/shaders/
-app/build/intermediates/symbols/
-app/build/intermediates/transforms/mergeJavaRes/
-app/build/intermediates/transforms/mergeJniLibs/
-app/build/tmp/compileDebugJavaWithJavac/
