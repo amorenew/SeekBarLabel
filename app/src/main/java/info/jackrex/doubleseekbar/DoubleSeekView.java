@@ -134,7 +134,7 @@ public class DoubleSeekView extends View {
         mThumbLow = res.getDrawable(R.drawable.slide_up);
         mThumbHigh = res.getDrawable(R.drawable.slide_down);
         mThumbWidth = mThumbLow.getIntrinsicWidth();
-        mThumbHeight = mThumbLow.getIntrinsicHeight();
+        mThumbHeight = mThumbLow.getIntrinsicHeight() / 2;
     }
 
     @Override
@@ -189,7 +189,7 @@ public class DoubleSeekView extends View {
                 + mThumbWidth, thumbBottom);
 
         mThumbLow.draw(canvas);
-        mThumbHigh.draw(canvas);
+//        mThumbHigh.draw(canvas);
 
         Paint paint = new Paint();
         paint.setColor(Color.parseColor("#B5B5B5"));
@@ -198,20 +198,20 @@ public class DoubleSeekView extends View {
         paint.setTextSize(ResolutionUtil.dip2px(getContext(), Float.valueOf(15)));
 
         Paint paintNum = new Paint();
-        paintNum.setColor(Color.parseColor("#767676"));
+        paintNum.setColor(Color.parseColor("#379997"));
         paintNum.setStrokeWidth(3);
         paintNum.setTextAlign(Align.CENTER);
-        paintNum.setTextSize(ResolutionUtil.dip2px(getContext(), Float.valueOf(25)));
+        paintNum.setTextSize(ResolutionUtil.dip2px(getContext(), Float.valueOf(20)));
 
-        canvas.drawText("加油前", mOffsetLow + mThumbWidth / 2, textTop1Height,
-                paint);
-        canvas.drawText("加油后", mOffsetLow + mMiddleLength + mThumbWidth / 2,
-                textBot2Height, paint);
+//        canvas.drawText("加油前", mOffsetLow + mThumbWidth / 2, textTop1Height,
+//                paint);
+//        canvas.drawText("加油后", mOffsetLow + mMiddleLength + mThumbWidth / 2,
+//                textBot2Height, paint);
 
-        canvas.drawText(preOil + "%", mOffsetLow + mThumbWidth / 2,
-                textTop2Height, paintNum);
-        canvas.drawText(aftOil + "%", mOffsetLow + mMiddleLength + mThumbWidth
-                / 2, textBot1Height, paintNum);
+        canvas.drawText(String.valueOf(preOil), mOffsetLow + mThumbWidth / 2,
+                (progressHeight + progressBottom) / 2, paintNum);
+//        canvas.drawText(aftOil + "%", mOffsetLow + mMiddleLength + mThumbWidth
+//                / 2, textBot1Height, paintNum);
 
         if (mBarChangeListener != null) {
             mBarChangeListener.onProgressChanged(this, preOil, aftOil);

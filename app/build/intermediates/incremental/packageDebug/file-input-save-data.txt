@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Jan 15 10:35:43 AST 2017
+#Sun Jan 15 10:48:41 AST 2017
 8.set=ANDROID_RESOURCE
 1.base=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_
 1.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\slide_bg_white.9.png
