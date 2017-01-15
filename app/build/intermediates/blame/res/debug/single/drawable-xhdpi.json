@@ -12,6 +12,10 @@
         "source": "E:\\Android\\Projects\\DoubleSeekBar\\app\\src\\main\\res\\drawable-xhdpi\\slide_down.png"
     },
     {
+        "merged": "E:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\slide_up_old.png",
+        "source": "E:\\Android\\Projects\\DoubleSeekBar\\app\\src\\main\\res\\drawable-xhdpi\\slide_up_old.png"
+    },
+    {
         "merged": "E:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\kedu.png",
         "source": "E:\\Android\\Projects\\DoubleSeekBar\\app\\src\\main\\res\\drawable-xhdpi\\kedu.png"
     },

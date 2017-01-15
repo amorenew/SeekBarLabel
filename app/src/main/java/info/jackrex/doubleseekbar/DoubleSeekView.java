@@ -209,7 +209,7 @@ public class DoubleSeekView extends View {
                 textBot2Height, paint);
 
         canvas.drawText(preOil + "%", mOffsetLow + mThumbWidth / 2,
-                (progressHeight + progressBottom) / 2, paintNum);
+                textTop2Height, paintNum);
         canvas.drawText(aftOil + "%", mOffsetLow + mMiddleLength + mThumbWidth
                 / 2, textBot1Height, paintNum);
 

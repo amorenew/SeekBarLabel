@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Jan 15 09:53:39 AST 2017
+#Sun Jan 15 10:35:43 AST 2017
 8.set=ANDROID_RESOURCE
 1.base=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_
 1.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\slide_bg_white.9.png
@@ -7,13 +7,15 @@
 3.base=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_
 4.set=ANDROID_RESOURCE
 5.base=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_
-5.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\slide_bg.9.png
+5.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
 7.base=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_
-7.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\slide_up.png
-11.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\slide_down.png
+7.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\kedu.png
+11.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
 11.base=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_
 9.base=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_
-9.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\slide_title.png
+9.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+13.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+13.base=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_
 11.set=ANDROID_RESOURCE
 0.set=ANDROID_RESOURCE
 7.set=ANDROID_RESOURCE
@@ -24,19 +26,20 @@
 6.set=ANDROID_RESOURCE
 2.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
 2.base=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-4.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+4.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\slide_up_old.png
 4.base=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_
 6.base=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_
-6.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\kedu.png
+6.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\slide_bg.9.png
 10.base=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_
-10.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+10.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\slide_title.png
+13.set=ANDROID_RESOURCE
 8.base=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_
-8.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+8.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\slide_up.png
 2.set=DEX
-12.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+12.file=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\slide_down.png
 12.base=E\:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\resources-debug.ap_
 9.set=ANDROID_RESOURCE
-count=13
+count=14
 5.set=ANDROID_RESOURCE
 12.set=ANDROID_RESOURCE
 1.set=ANDROID_RESOURCE
