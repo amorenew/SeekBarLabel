@@ -1,0 +1,144 @@
+[
+    {
+        "outputFile": "E:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 649,
+                    "endColumn": 57,
+                    "endOffset": 702
+                },
+                "from": {
+                    "file": "E:\\Android\\Projects\\DoubleSeekBar\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 707,
+                    "endColumn": 55,
+                    "endOffset": 758
+                },
+                "from": {
+                    "file": "E:\\Android\\Projects\\DoubleSeekBar\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 763,
+                    "endColumn": 52,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "E:\\Android\\Projects\\DoubleSeekBar\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 52,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 50,
+                    "endOffset": 862
+                },
+                "from": {
+                    "file": "E:\\Android\\Projects\\DoubleSeekBar\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 50,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 867,
+                    "endColumn": 52,
+                    "endOffset": 915
+                },
+                "from": {
+                    "file": "E:\\Android\\Projects\\DoubleSeekBar\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 52,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 920,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1206
+                },
+                "from": {
+                    "file": "E:\\Android\\Projects\\DoubleSeekBar\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1211,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1366
+                },
+                "from": {
+                    "file": "E:\\Android\\Projects\\DoubleSeekBar\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\slide_up.png",
+        "source": "E:\\Android\\Projects\\DoubleSeekBar\\app\\src\\main\\res\\drawable-xhdpi\\slide_up.png"
+    },
+    {
+        "merged": "E:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\slide_bg_white.9.png",
+        "source": "E:\\Android\\Projects\\DoubleSeekBar\\app\\src\\main\\res\\drawable-xhdpi\\slide_bg_white.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\slide_down.png",
+        "source": "E:\\Android\\Projects\\DoubleSeekBar\\app\\src\\main\\res\\drawable-xhdpi\\slide_down.png"
+    },
+    {
+        "merged": "E:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\kedu.png",
+        "source": "E:\\Android\\Projects\\DoubleSeekBar\\app\\src\\main\\res\\drawable-xhdpi\\kedu.png"
+    },
+    {
+        "merged": "E:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\Android\\Projects\\DoubleSeekBar\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\slide_title.png",
+        "source": "E:\\Android\\Projects\\DoubleSeekBar\\app\\src\\main\\res\\drawable-xhdpi\\slide_title.png"
+    },
+    {
+        "merged": "E:\\Android\\Projects\\DoubleSeekBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\slide_bg.9.png",
+        "source": "E:\\Android\\Projects\\DoubleSeekBar\\app\\src\\main\\res\\drawable-xhdpi\\slide_bg.9.png"
+    }
+]
